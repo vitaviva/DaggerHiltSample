@@ -1,4 +1,4 @@
-# Dagger Hilt Example
+# Dagger Hilt Sample
 ---
 
-![Example Architecture](/assets/dagger-hilt-example.png)
+![Sample Architecture](/assets/dagger-hilt-sample.png)
